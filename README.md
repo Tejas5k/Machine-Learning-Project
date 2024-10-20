@@ -1,4 +1,4 @@
-"" Taxi Fare Prediction App ””
+"" Taxi Fare Prediction  ””
 
 This project is a graphical user interface (GUI) application that predicts taxi fares based on the distance traveled and pickup time.
 The app uses a trained machine learning model to provide fare estimates.
